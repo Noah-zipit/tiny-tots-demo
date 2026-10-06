@@ -113,7 +113,7 @@ export default function App() {
       <header className="hero" ref={heroRef}>
         <div className="hero-bg" ref={heroBgRef}>
           {reduced ? <div className="hero-static" /> : (
-            <Silk color="#f2b880" speed={2.2} scale={1.0} noiseIntensity={1.0} rotation={0} lightMode={true} />
+            <Silk color="#8FD0F2" speed={2.2} scale={1.0} noiseIntensity={1.0} rotation={0} lightMode={true} />
           )}
         </div>
         <div className="hero-shade" />
