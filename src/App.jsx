@@ -35,7 +35,7 @@ const PROGRAMS = [
 
 const GALLERY = [
   { img: './d1.jpg', alt: 'Kindergarten children on an outdoor trip, standing together by a pond', cap: 'Outdoor days' },
-  { img: './d2.jpg', alt: 'Young children playing together outdoors with fallen leaves', cap: 'Play, every day' },
+  { img: './d2.jpg', alt: 'A toddler’s paint-covered hand over a colourful finger painting', cap: 'Little artists' },
   { img: './d3.jpg', alt: 'A toddler looking at a colourful picture book', cap: 'Story time' },
   { img: './d4.jpg', alt: 'A teacher reading a picture book with two young girls', cap: 'Read with love' },
 ];
@@ -307,7 +307,7 @@ export default function App() {
           <p className="serif">Tiny Tots</p>
           <p>A little home where little hearts feel safe, loved and happy.</p>
           <p>DHA Lahore · WhatsApp {WA_DISPLAY} · <a href={IG_URL} target="_blank" rel="noreferrer">@tiny_tots.dha</a></p>
-          <p className="photo-credit">Photos: CC-BY via Flickr and Openverse. Demo site made with love for Tiny Tots Daycare.</p>
+          <p className="photo-credit">Photos: CC-BY / CC-BY-SA via Flickr and Openverse. Demo site made with love for Tiny Tots Daycare.</p>
         </div>
       </footer>
 
