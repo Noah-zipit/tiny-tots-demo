@@ -1,8 +1,12 @@
 {
   "name": "tiny-tots-demo",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
+  "description": "Client pitch demo for Tiny Tots Daycare (DHA Lahore) \u2014 free demo site built to win the owner over.",
+  "author": "Ashar Qaisar <noahext994@gmail.com>",
+  "license": "MIT",
+  "repository": "github:Noah-zipit/tiny-tots-demo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
